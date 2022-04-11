@@ -1,4 +1,5 @@
-#Flask Repo for Learning
+# Flask Repo for Learning
 
-To run:
+# How to run in local system
+
 flask run
